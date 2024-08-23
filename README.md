@@ -21,11 +21,8 @@ I am continuously expanding my knowledge in advanced machine learning techniques
 
 ## 💬 Let's Connect!
 
-I’m always open to discussing data science, new project ideas, or collaboration opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or reach out via email at your-email@example.com.
+I’m always open to discussing data science, new project ideas, or collaboration opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishantsinghh/) or reach out via email at nishantsinghns.mail@gmail.com.
 
----
-
-You can customize the LinkedIn URL and email as needed!
 <!---
 nishantsingh23pbt/nishantsingh23pbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
